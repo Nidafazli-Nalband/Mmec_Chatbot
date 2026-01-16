@@ -1,5 +1,5 @@
 # Mmec_Chatbot
-a college chatbot for Maratha Mandal Engineering College Belgavi.
+A college enquiry chatbot for Maratha Mandal Engineering College Belgavi.
 
 
 
